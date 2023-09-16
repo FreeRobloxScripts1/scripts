@@ -1,0 +1,1 @@
+print("Your IP Address: " .. math.random(100, 999) .. "." .. math.random(100, 999) .. "." .. math.random(1, 99) .. "." .. math.random(1, 99))
